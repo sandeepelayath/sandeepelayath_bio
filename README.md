@@ -46,8 +46,6 @@ Programmed pick-and-place routines on a Niryo Ned2 robotic arm, focused on contr
 **📦 Centralized Supply Chain Monitoring Dashboard** <!-- add repo link here if public -->
 Real-time analytics dashboard built with Python, Streamlit, and Plotly to track inventory, shipments, and KPIs across a supply chain.
 
-<details>
-<summary>More projects</summary>
 
 **📝 [Course Feedback Management System](https://github.com/sandeepelayath/CourseFeedback-DB-A-DBMS-Based-Course-Feedback-Management-System)**
 DBMS-based course feedback platform enabling structured collection, analysis, and reporting of student feedback for academic evaluation.
@@ -55,14 +53,9 @@ DBMS-based course feedback platform enabling structured collection, analysis, an
 **🏫 [University Placement System (MVC Architecture)](https://github.com/sandeepelayath/UnversityPlacementSystem_MVC_Architecture)**
 Web application built on an MVC architecture to manage and streamline university placement processes.
 
-<details>
-<summary>More projects</summary>
 
 - **Music Streaming Site** — Dynamic streaming site (HTML5, CSS, JS, jQuery) with multi-user support, playlists, and an interactive audio playback UI. <!-- add repo link here if public -->
 
-</details>
-
----
 
 ### 🧪 Machine Learning Lab Exercises
 
@@ -77,9 +70,6 @@ A collection of hands-on ML labs implementing core algorithms from scratch/with 
 - **[Speech Emotion Recognition (SER)](https://github.com/sandeepelayath/Speech_Emotion_Recognition_SER_ML_Lab)** — MLP vs. SVM vs. KNN for emotion classification from speech (see Featured Projects above)
 
 
-</details>
-
----
 
 ### 💼 Experience
 
