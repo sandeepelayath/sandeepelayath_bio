@@ -28,7 +28,7 @@
 
 ### 📌 Featured Projects
 
-**🎓 Secure Traffic Anomaly Detection in SDNs (Capstone)**
+**🎓 Secure Traffic Anomaly Detection in SDNs (Capstone)(https://github.com/sandeepelayath/CAPSTONE_2026_PW25_RMH_01_NEW)**
 Real-time anomaly detection and adaptive mitigation system for SDN environments, classifying encrypted traffic via flow-level features using a hybrid LSTM + Randomized Neural Network model, with automated rate-limiting and honeypot-based defenses.
 
 **🗣️ [Speech Emotion Recognition (SER) — ML Lab](https://github.com/sandeepelayath/Speech_Emotion_Recognition_SER_ML_Lab)**
