@@ -28,29 +28,29 @@
 
 ### 📌 Featured Projects
 
-**🎓 Secure Traffic Anomaly Detection in SDNs (Capstone)(https://github.com/sandeepelayath/CAPSTONE_2026_PW25_RMH_01_NEW)**
+**🎓 Secure Traffic Anomaly Detection in SDNs (Capstone)** <!-- https://github.com/sandeepelayath/CAPSTONE_2026_PW25_RMH_01_NEW -->
 Real-time anomaly detection and adaptive mitigation system for SDN environments, classifying encrypted traffic via flow-level features using a hybrid LSTM + Randomized Neural Network model, with automated rate-limiting and honeypot-based defenses.
 
 **🗣️ [Speech Emotion Recognition (SER) — ML Lab](https://github.com/sandeepelayath/Speech_Emotion_Recognition_SER_ML_Lab)**
 MLP model (Adam optimizer) trained to classify emotion from speech, benchmarked against SVM and KNN using precision, recall, and F-score. Dataset sourced from Kaggle.
 
-**🎥 Sentiment Analysis of Videos — Multimodal ML**
+**🎥 Sentiment Analysis of Videos — Multimodal ML** <!-- add repo link here if public -->
 Multimodal sentiment analysis combining LSTM (audio/text) and ResNet-18 (visual) to classify emotions across video streams.
 
-**🖨️ Distributed Printer Management System**
+**🖨️ Distributed Printer Management System** <!-- add repo link here if public -->
 Fault-tolerant print job scheduler using the Raft consensus algorithm for consistent state management across distributed nodes in a cloud environment.
 
-**🤖 Robotic Arm Manipulation — Niryo Ned2**
+**🤖 Robotic Arm Manipulation — Niryo Ned2** <!-- add repo link here if public -->
 Programmed pick-and-place routines on a Niryo Ned2 robotic arm, focused on control, coordination, and automation in autonomous robotics.
 
-**📦 Centralized Supply Chain Monitoring Dashboard**
+**📦 Centralized Supply Chain Monitoring Dashboard** <!-- add repo link here if public -->
 Real-time analytics dashboard built with Python, Streamlit, and Plotly to track inventory, shipments, and KPIs across a supply chain.
 
 <details>
 <summary>More projects</summary>
 
-- **Student Feedback Management System** — Web-based feedback platform (PHP, SQL, CSS) for structured collection, analysis, and reporting of student feedback.
-- **Music Streaming Site** — Dynamic streaming site (HTML5, CSS, JS, jQuery) with multi-user support, playlists, and an interactive audio playback UI.
+- **Student Feedback Management System** — Web-based feedback platform (PHP, SQL, CSS) for structured collection, analysis, and reporting of student feedback. <!-- add repo link here if public -->
+- **Music Streaming Site** — Dynamic streaming site (HTML5, CSS, JS, jQuery) with multi-user support, playlists, and an interactive audio playback UI. <!-- add repo link here if public -->
 
 </details>
 
