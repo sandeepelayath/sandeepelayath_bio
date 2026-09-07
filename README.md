@@ -29,28 +29,36 @@
 ### 📌 Featured Projects
 
 **🎓 [Secure Traffic Anomaly Detection in SDNs (Capstone)](https://github.com/sandeepelayath/CAPSTONE_2026_PW25_RMH_01_NEW)**
+
 Real-time anomaly detection and adaptive mitigation system for SDN environments, classifying encrypted traffic via flow-level features using a hybrid LSTM + Randomized Neural Network model, with automated rate-limiting and honeypot-based defenses.
 
 **🗣️ [Speech Emotion Recognition (SER) — ML Lab](https://github.com/sandeepelayath/Speech_Emotion_Recognition_SER_ML_Lab)**
+
 MLP model (Adam optimizer) trained to classify emotion from speech, benchmarked against SVM and KNN using precision, recall, and F-score. Dataset sourced from Kaggle.
 
 **🎥 [Sentiment Analysis of Videos — Multimodal ML](https://github.com/sandeepelayath/ML_MultiModal_Sentiment_Analysis)**
+
 Multimodal sentiment analysis combining LSTM (audio/text) and ResNet-18 (visual) to classify emotions across video streams.
 
 **🖨️ [Distributed Printer Management System](https://github.com/sandeepelayath/Raft3D---Distributed-3D-Printer-Management-System)**
+
 Fault-tolerant print job scheduler using the Raft consensus algorithm for consistent state management across distributed nodes in a cloud environment.
 
 **🤖 [Robotic Arm Manipulation — Niryo Ned2](https://github.com/sandeepelayath/NIRYO_NED2_ROBOTIC_ARM)**
+
 Programmed pick-and-place routines on a Niryo Ned2 robotic arm, focused on control, coordination, and automation in autonomous robotics.
 
 **📦 Centralized Supply Chain Monitoring Dashboard** <!-- add repo link here if public -->
+
 Real-time analytics dashboard built with Python, Streamlit, and Plotly to track inventory, shipments, and KPIs across a supply chain.
 
 
 **📝 [Course Feedback Management System](https://github.com/sandeepelayath/CourseFeedback-DB-A-DBMS-Based-Course-Feedback-Management-System)**
+
 DBMS-based course feedback platform enabling structured collection, analysis, and reporting of student feedback for academic evaluation.
 
 **🏫 [University Placement System (MVC Architecture)](https://github.com/sandeepelayath/UnversityPlacementSystem_MVC_Architecture)**
+
 Web application built on an MVC architecture to manage and streamline university placement processes.
 
 
