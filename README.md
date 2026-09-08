@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech in Computer Science and Engineering, PES University, Bengaluru (2022 – 2026)
 - 💻 Currently a **Software Engineering Intern** at Starten Systems India, building a containerized, ClickHouse-backed log analytics pipeline with ML-powered live-dashboard diagnostics
-- 🧠 Interests: Machine Learning, Distributed Systems, Anomaly Detection, and Multimodal ML
+- 🧠 Interests: Test Engineering & AI-Assisted Tooling, Machine Learning, Distributed Systems, Anomaly Detection, and Multimodal ML
 - 🛰️ Past internships in QA/Test Automation (Taxilla IT Solutions) and 5G Network Engineering (Radisys India)
 - 🏆 DeepLearning.AI Machine Learning Specialization (Stanford/Coursera), 2024
 - 📫 Reach me: sandeepelayath@gmail.com · [LinkedIn](https://linkedin.com/in/sandeep-elayath)
